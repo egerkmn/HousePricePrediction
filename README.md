@@ -1,6 +1,6 @@
 # HousePricePrediction
 
-This project is prepared for a Kaggle Competition called "House Prices - Advanced Regression Techniques". I tried to solve a regression problem with tree-based models. More details are given in the Jupyter Notebook. Kaggle competition and code links are given below. 
+This project is prepared for a Kaggle Competition called "House Prices - Advanced Regression Techniques". I tried to solve a regression problem with a detailed EDA and tree-based models. More details are given in the Jupyter Notebook. Kaggle competition and code links are given below. 
 
 If you found this project helpful, some Kaggle upvotes would be very much appreciated!
 
